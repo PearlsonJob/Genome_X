@@ -1,4 +1,3 @@
-#this is the day 2 of my coding to become a master AI Computational Biologist.
 Name="J Pearlson Job"
 Course="M.Sc. Bioinformatics"
 Field_of_Interest="AI in Drug Discovery"
