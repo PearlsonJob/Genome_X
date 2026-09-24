@@ -1,5 +1,3 @@
-#Day 4 of becoming the best AI Computational Biologist and the Best Big Data Biologist/Scientist.
-# Special Mission: PROJECT HELIX: Volunteer Bio-Profile Intake System
 #Author: J Pearlson Job
 print("=========================================================================")
 print("PROJECT HELIX: Volunteer Bio-Profile Intake System v1.0")
