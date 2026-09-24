@@ -1,7 +1,4 @@
 #============================================================================================================
-#Day 3 of becoming the best AI Computational Biologist and the Best Big Data Biologist/Scientist.
-#GENOME X UNIVERSITY
-#Pillar: Programming 
 #Day:03
 #Author: J Pearlson Job
 #============================================================================================================
