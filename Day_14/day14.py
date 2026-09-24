@@ -1,5 +1,4 @@
-#Day 12 of becoming the best AI Computaional Biologist in the world.
-#Genome X University
+
 #Project Helix DNA REPORT GENERATOR
 #Author: J Pearlson Job
 print("==============================================")
