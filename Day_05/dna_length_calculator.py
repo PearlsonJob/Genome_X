@@ -1,5 +1,3 @@
-# Day 05 of becoming the best AI Computational Biologist and the Best Big Data Biologist/Scientist.
-# Exercise : Calculations based of the input of 2 Different DNA Fragments
 #Author: J Pearlson Job
 print("=========================================================================")
 DNA1_length=int(input("Enter the total length of the first DNA fragment in base pairs (bp): "))
